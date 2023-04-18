@@ -42,7 +42,18 @@
   "generators": {
     "@nrwl/react": {
       "application": {
+        "style": "@emotion/styled",
+        "linter": "eslint",
+        "bundler": "vite",
         "babel": true
+      },
+      "library": {
+        "style": "@emotion/styled",
+        "linter": "eslint",
+        "unitTestRunner": "none"
+      },
+      "component": {
+        "style": "@emotion/styled"
       }
     },
     "@nrwl/next": {

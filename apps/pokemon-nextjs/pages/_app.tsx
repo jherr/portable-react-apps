@@ -1,16 +1,19 @@
-import { AppProps } from "next/app";
-import Head from "next/head";
-import "./styles.css";
+import { AppProps } from 'next/app';
+import Head from 'next/head';
+
+import { Main } from '@portable-react-apps/pokemon-ui';
+
+import './styles.css';
 
 function CustomApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Welcome to pokemon-nextjs!</title>
+        <title>NextJS Pokemon</title>
       </Head>
-      <main className="app">
+      <Main>
         <Component {...pageProps} />
-      </main>
+      </Main>
     </>
   );
 }

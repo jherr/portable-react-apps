@@ -40,3 +40,8 @@ Thumbs.db
 
 # Next.js
 .next
+
+# Remix files
+apps/**/build
+apps/**/.cache
+  
