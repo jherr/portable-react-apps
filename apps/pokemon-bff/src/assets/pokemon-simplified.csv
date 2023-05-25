@@ -770,7 +770,6 @@ ID,Name,Type,HP,Attack,Defense,Special Attack,Special Defense,Speed
 769,"Sandygast","Ghost,Ground",55,55,80,70,45,15
 770,"Palossand","Ghost,Ground",85,75,110,100,75,35
 771,"Pyukumuku","Water",55,60,130,30,130,5
-772,"Type: Null","Normal",95,95,95,95,95,59
 773,"Silvally","Normal",95,95,95,95,95,95
 774,"Minior","Rock,Flying",60,60,100,60,100,60
 775,"Komala","Normal",65,115,65,75,95,65

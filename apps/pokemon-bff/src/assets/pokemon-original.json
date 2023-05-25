@@ -15798,26 +15798,6 @@
     }
   },
   {
-    "id": 772,
-    "name": {
-      "english": "Type: Null",
-      "japanese": "タイプ：ヌル",
-      "chinese": "属性：空",
-      "french": "Silvallié"
-    },
-    "type": [
-      "Normal"
-    ],
-    "base": {
-      "hp": 95,
-      "attack": 95,
-      "defense": 95,
-      "special_attack": 95,
-      "special_defense": 95,
-      "speed": 59
-    }
-  },
-  {
     "id": 773,
     "name": {
       "english": "Silvally",
