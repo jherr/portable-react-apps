@@ -10402,19 +10402,6 @@
     "speed": 5
   },
   {
-    "id": 772,
-    "name": "Type: Null",
-    "type": [
-      "Normal"
-    ],
-    "hp": 95,
-    "attack": 95,
-    "defense": 95,
-    "special_attack": 95,
-    "special_defense": 95,
-    "speed": 59
-  },
-  {
     "id": 773,
     "name": "Silvally",
     "type": [
